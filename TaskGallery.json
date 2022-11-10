@@ -2,7 +2,8 @@
     "name":"lhw",
     "description":"Crontab Task Gallery",
     "task":[
-        "44 7,18 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bhxcy.js, tag=渤海宣传员"
+        "44 7,18 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bhxcy.js, tag=渤海宣传员",
+        "6 0 * * * https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/Task/xmlySign.js, tag=喜马拉雅签到, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/ximalaya.png"
         
     ]
 }
