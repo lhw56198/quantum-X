@@ -7,10 +7,10 @@
         "0 8 * * * https://raw.githubusercontent.com/githubdulong/Script/master/weifeng.js, tag=威锋论坛, img-url=https://raw.githubusercontent.com/anker1209/icon/main/wflt.png, enabled=true",
         "0 6,8 * * * https://raw.githubusercontent.com/JoJoJotarou/myScript/master/script/meituan/mall.meituan.mallcoin.task.js, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/meituan/maicai.png, tag=买菜币, enabled=true",
         "35 9,15 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/sfsy.js, tag=顺丰速运, enabled=true",
-        "55 8 * * * https://raw.githubusercontent.com/lu0b0/Script/main/qcs.js, tag=屈臣氏, enabled=true",
-        "35 9 * * * https://raw.githubusercontent.com/lu0b0/Script/main/sy.js, tag=书亦香, enabled=true",
-        "35 10 * * * https://raw.githubusercontent.com/lu0b0/Script/main/ylhy.js, tag=伊利会员, enabled=true",
-        "47 10 * * * https://raw.githubusercontent.com/lu0b0/Script/main/hipc.js, tag=hipc, enabled=true"
+        "15 9 * * * https://raw.githubusercontent.com/lu0b0/Script/main/qcs.js, tag=屈臣氏",
+        "35 9 * * * https://raw.githubusercontent.com/lu0b0/Script/main/sy.js, tag=书亦香",
+        "35 10 * * * https://raw.githubusercontent.com/lu0b0/Script/main/ylhy.js, tag=伊利会员",
+        "47 10 * * * https://raw.githubusercontent.com/lu0b0/Script/main/hipc.js, tag=hipc"
         
     ]
 }
