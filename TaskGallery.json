@@ -11,6 +11,7 @@
         "35 9 * * * https://raw.githubusercontent.com/lu0b0/Script/main/sy.js, tag=书亦香",
         "35 10 * * * https://raw.githubusercontent.com/lu0b0/Script/main/ylhy.js, tag=伊利会员",
         "47 10 * * * https://raw.githubusercontent.com/lu0b0/Script/main/hipc.js, tag=hipc"
+        ""
         
     ]
 }
